@@ -1,0 +1,2 @@
+# gradletask
+gradle for dockerize
