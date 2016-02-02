@@ -1,2 +1,4 @@
-# gradletask
-gradle for dockerize
+# gradle
+dockerized gradle
+
+
